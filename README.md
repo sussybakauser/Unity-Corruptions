@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".UnityCorruptionsLogo.png" alt="UnityCorruptionsLogo" width="200">
+  <img src="UnityCorruptionsLogo.png" alt="UnityCorruptionsLogo" width="200">
 </p>
 
 # Unity-Corruptions
